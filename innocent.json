@@ -12,7 +12,7 @@
   {"card": "A key witness who could bring down an untouchable mobster", "weight": 88},
   {"card": "The next Mozart", "weight": 87},
   {"card": "The next Picasso", "weight": 86},
-  {"card": "A philosopher who will one day bring peace to the world", "weight": 86},
+  {"card": "A philosopher who will one day bring peace to the world", "weight": 92},
   {"card": "A promising young scientist", "weight": 85},
   {"card": "A brilliant young lawyer fighting to make the world a better place", "weight": 84},
   {"card": "A beloved children's book author", "weight": 82},
@@ -39,5 +39,5 @@
   {"card": "A completely functional Batmobile with your name on it", "weight": 62},
   {"card": "A fully furnished home available to rent under your price range", "weight": 61},
   {"card": "A fragile crystal said to house an ancient apocalyptic demon", "weight": 60},
-  {"card": "The leader of a dangerous cult", "weight": 45}
+  {"card": "The leader of a dangerous cult", "weight": 50}
 ]
