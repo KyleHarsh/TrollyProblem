@@ -131,6 +131,7 @@ def custom_game():
         elif g2 is None:
             inp = input("guilty--")
         else:
+            print("To end modifier selection, type 'stop'")
             inp = input("modifier--")
 
         if inp == 'i':
